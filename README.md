@@ -1,4 +1,6 @@
 2dgame
 ======
 
-Java OpenGL 2D stuff
+Java OpenGL 2D
+
+Playing with text display.
